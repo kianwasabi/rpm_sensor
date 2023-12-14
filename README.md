@@ -1,2 +1,2 @@
 # rpm_sensor
-speedsensor | SEA:ME DES
+LM393 speedsensor, Arduino Uno & CAN-BUS Shield v2 | Submodule | SEA:ME DES

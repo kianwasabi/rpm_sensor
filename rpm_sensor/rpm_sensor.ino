@@ -84,5 +84,5 @@ void loop() {
   read_rpm_sensor();
   send_to_can();
   print_to_serial_monitor();
-  delay(1000);
+  //delay(100);
 }
